@@ -1,4 +1,5 @@
 # 🏢 (ERP System)
+![View](ScreenShot/1.png)
 
 <div align="center">
 ![Fiscal Period](ScreenShot/1.png)
