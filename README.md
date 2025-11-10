@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![System Settings](ScreenShot/System%20Settings.png)
-
 ### نظام إدارة شامل ومتكامل للمؤسسات والشركات
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
@@ -23,7 +21,7 @@
 
 ### 🎥 استعراض النظام
 
-https://github.com/labeebnaji/erp-system/assets/ScreenShot/View%201.mp4
+https://github.com/labeebnaji/modular-erp-system/ScreenShot/View%201.mp4
 
 > **ملاحظة:** هذا الفيديو يعرض جزءاً بسيطاً من إمكانيات النظام الواسعة
 
