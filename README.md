@@ -1,6 +1,7 @@
 # 🏢 (ERP System)
 
 <div align="center">
+![Fiscal Period](ScreenShot/1.png)
 
 ### نظام إدارة شامل ومتكامل للمؤسسات والشركات
 
