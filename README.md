@@ -2,7 +2,6 @@
 ![View](ScreenShot/1.png)
 
 <div align="center">
-![Fiscal Period](ScreenShot/1.png)
 
 ### نظام إدارة شامل ومتكامل للمؤسسات والشركات
 
@@ -193,6 +192,7 @@ python main.py
 ---
 
 ## 🎨 لقطات الشاشة
+![View](ScreenShot/2.png)
 
 ### إعدادات النظام
 ![System Settings](ScreenShot/System%20Settings.png)
