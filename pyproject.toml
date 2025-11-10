@@ -1,0 +1,13 @@
+[project]
+name = "erp"
+version = "0.1.0"
+dependencies = [
+    "PySide6==6.7.2",
+    "SQLAlchemy==2.0.31",
+    "psycopg2-binary==2.9.9",
+    "Werkzeug==3.0.1",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
