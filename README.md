@@ -21,7 +21,7 @@
 
 ### 🎥 استعراض النظام
 
-https://github.com/labeebnaji/modular-erp-system/ScreenShot/View%201.mp4
+![Fiscal Period](ScreenShot/View%201.mp4)
 
 > **ملاحظة:** هذا الفيديو يعرض جزءاً بسيطاً من إمكانيات النظام الواسعة
 
